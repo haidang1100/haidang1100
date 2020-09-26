@@ -1,0 +1,19 @@
+
+body {
+    margin-top: 150px;
+    margin-left: 450px;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+}
+
+h1 {
+    width: auto;
+    height: auto;
+    background-color:aqua;
+}
+
+.quay_so {
+    background-color: aquamarine;
+    
+}
